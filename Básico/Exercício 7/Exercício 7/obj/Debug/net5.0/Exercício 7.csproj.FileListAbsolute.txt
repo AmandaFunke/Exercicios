@@ -1,0 +1,16 @@
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.exe
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.deps.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.runtimeconfig.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.runtimeconfig.dev.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\ref\Exercício 7.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\bin\Debug\net5.0\Exercício 7.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.csproj.AssemblyReference.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.AssemblyInfoInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.AssemblyInfo.cs
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\ref\Exercício 7.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 7\Exercício 7\obj\Debug\net5.0\Exercício 7.genruntimeconfig.cache
