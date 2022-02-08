@@ -1,0 +1,16 @@
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.exe
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.deps.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.runtimeconfig.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.runtimeconfig.dev.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\ref\Exercício 11.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\bin\Debug\net5.0\Exercício 11.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.csproj.AssemblyReference.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.AssemblyInfoInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.AssemblyInfo.cs
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\ref\Exercício 11.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 11\Exercício 11\obj\Debug\net5.0\Exercício 11.genruntimeconfig.cache

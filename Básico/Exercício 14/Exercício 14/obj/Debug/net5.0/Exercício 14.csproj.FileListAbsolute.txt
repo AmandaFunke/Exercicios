@@ -1,0 +1,16 @@
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.exe
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.deps.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.runtimeconfig.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.runtimeconfig.dev.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\ref\Exercício 14.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\bin\Debug\net5.0\Exercício 14.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.csproj.AssemblyReference.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.AssemblyInfoInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.AssemblyInfo.cs
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\ref\Exercício 14.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 14\Exercício 14\obj\Debug\net5.0\Exercício 14.genruntimeconfig.cache

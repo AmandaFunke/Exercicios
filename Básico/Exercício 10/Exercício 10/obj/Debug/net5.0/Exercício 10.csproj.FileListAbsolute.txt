@@ -1,0 +1,16 @@
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.exe
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.deps.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.runtimeconfig.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.runtimeconfig.dev.json
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\ref\Exercício 10.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\bin\Debug\net5.0\Exercício 10.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.csproj.AssemblyReference.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.AssemblyInfoInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.AssemblyInfo.cs
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\ref\Exercício 10.dll
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.pdb
+C:\Users\Amanda\Documents\Exercícios Programação\Básico\Exercício 10\Exercício 10\obj\Debug\net5.0\Exercício 10.genruntimeconfig.cache
